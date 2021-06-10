@@ -8,7 +8,7 @@ DE: Aufgabenstellung
 Anforderung: Eine Freundin möchte für ihre Tochter (Volksschule) ein web-basiertes Spiel zum Addieren-Üben von zwei Zahlen. 
 
 Die Aufgabe besteht darin, anhand dieser Anforderung ein Microgame für Browser (WebGL, 960x600) mit Unity 2D selbstständig zu erstellen. 
-1) Konzept wurde schon erstellt siehe Implementation Concept:
+1) Konzept wurde schon erstellt, siehe Implementation Concept unten
 2) Aufteilung des Projekts in Einzelschritte (für Programmierung mittels GitHub Projects). Hier im Template ist unter Projects ein Beispiel mit Beispielschritten angegeben. Bitte übernehmen oder selbst eigene Schritte anlegen. (Kann als Ganzes nicht kopiert werden, die Columns und Cards müssen selbstständig angelegt werden. Inhalte der Karten können kopiert werden. https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards
 3) Abarbeitung Einzelschritte (Umsetzung bis 14.6 **NICHT** erforderlich) 
 4) Für Testen freigeben (Notiz im Readme) (Umsetzung bis 14.6 **NICHT** erforderlich)
